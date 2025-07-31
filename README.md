@@ -193,5 +193,9 @@ and confirming file paths.
 
 ---
 
+## Step6 screenshot
+<img width="1440" height="900" alt="Screenshot 2025-07-31 at 19 38 43" src="https://github.com/user-attachments/assets/9097cd7a-f185-49e6-a91f-a5a795d5bfa5" />
+
+
 Built with passion by Oladimeji 
 

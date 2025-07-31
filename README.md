@@ -114,7 +114,7 @@ docker exec -it lb-01 service haproxy reload
 
 ---
 
-## 🔧 Testing Load Balancing
+## Testing Load Balancing
 
 Tested with:
 
